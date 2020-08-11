@@ -1,0 +1,320 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="97d300c8-4e89-4ab2-adda-42a825fb82c9" name="Default Changelist" comment="初始化项目成功" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CompilerWorkspaceConfiguration">
+    <option name="MAKE_PROJECT_ON_SAVE" value="true" />
+    <option name="PARALLEL_COMPILATION" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Kotlin Interface" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="C:\Users\陈佳.WIN-VEANVGK62HM\.m4\repository" />
+        <option name="mavenHome" value="$PROJECT_DIR$/../maven/apache-maven-3.6.3" />
+        <option name="userSettingsFile" value="D:\Tedu\TCGBIV\IDEA-WorkSpace\maven\apache-maven-3.6.3\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1fZoth727KRTIicSbzvUYbIw2K8" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="abbreviatePackageNames" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+    <option name="showVisibilityIcons" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="ExpandSpringBootJavaOptionsPanel" value="true" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/jt-manager" />
+    <property name="project.structure.last.edited" value="模块" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Tedu\TCGBIV\IDEA-WorkSpace\JT\jt-manager" />
+      <recent name="D:\Tedu\TCGBIV\IDEA-WorkSpace\JT\jt-common" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="京淘后台管理系统" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="jt-manager" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.jt.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.jt.SpringBootRun" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$/jt-manager" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="97d300c8-4e89-4ab2-adda-42a825fb82c9" name="Default Changelist" comment="" />
+      <created>1596435191321</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1596435191321</updated>
+      <workItem from="1596435192549" duration="419000" />
+      <workItem from="1596435637471" duration="250000" />
+      <workItem from="1596435909785" duration="623000" />
+      <workItem from="1596436555880" duration="860000" />
+      <workItem from="1596437448286" duration="1300000" />
+      <workItem from="1596438782515" duration="16552000" />
+      <workItem from="1596501660777" duration="236000" />
+      <workItem from="1596501933989" duration="1902000" />
+      <workItem from="1596503935354" duration="31089000" />
+      <workItem from="1596600146397" duration="2292000" />
+      <workItem from="1596607775130" duration="490000" />
+      <workItem from="1596608299890" duration="2147000" />
+      <workItem from="1596610652150" duration="5147000" />
+      <workItem from="1596615863886" duration="2507000" />
+      <workItem from="1596618417360" duration="3372000" />
+      <workItem from="1596622007559" duration="3373000" />
+      <workItem from="1596627773493" duration="234000" />
+      <workItem from="1596628041621" duration="232000" />
+      <workItem from="1596628293239" duration="695000" />
+      <workItem from="1596629010239" duration="2129000" />
+      <workItem from="1596672524062" duration="586000" />
+      <workItem from="1596673985330" duration="2496000" />
+      <workItem from="1596699847028" duration="695000" />
+      <workItem from="1596721046034" duration="19000" />
+      <workItem from="1596759437130" duration="15751000" />
+      <workItem from="1596800681641" duration="1433000" />
+      <workItem from="1596845637613" duration="1855000" />
+      <workItem from="1596879267608" duration="527000" />
+      <workItem from="1596953802944" duration="2894000" />
+      <workItem from="1597018858568" duration="8834000" />
+      <workItem from="1597116719286" duration="11380000" />
+    </task>
+    <task id="LOCAL-00001" summary="JT">
+      <created>1596761208055</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1596761208055</updated>
+    </task>
+    <task id="LOCAL-00002" summary="JT">
+      <created>1597146840754</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1597146840754</updated>
+    </task>
+    <task id="LOCAL-00003" summary="初始化项目成功">
+      <created>1597147699545</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1597147699545</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="JT" />
+    <MESSAGE value="初始化项目成功" />
+    <option name="LAST_COMMIT_MESSAGE" value="初始化项目成功" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="345" y="39" key="#JSHint" timestamp="1596629168016">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="345" y="39" key="#JSHint/0.0.1536.824@0.0.1536.824" timestamp="1596629168016" />
+    <state x="635" y="182" width="652" height="438" key="#Notifications" timestamp="1596622053124">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="635" y="182" width="652" height="438" key="#Notifications/0.0.1536.824@0.0.1536.824" timestamp="1596622053124" />
+    <state x="498" y="0" key="#Project_Structure" timestamp="1596595390196">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="498" y="0" key="#Project_Structure/0.0.1536.824@0.0.1536.824" timestamp="1596595390196" />
+    <state x="921" y="270" width="548" height="283" key="#Scopes" timestamp="1596439128038">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="921" y="270" width="548" height="283" key="#Scopes/0.0.1536.824@0.0.1536.824" timestamp="1596439128038" />
+    <state x="777" y="6" width="718" height="812" key="#SpringBootRun" timestamp="1596438333449">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="777" y="6" width="718" height="812" key="#SpringBootRun/0.0.1536.824@0.0.1536.824" timestamp="1596438333449" />
+    <state x="372" y="67" width="1164" height="690" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1596761284221">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="372" y="67" width="1164" height="690" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1596761284221" />
+    <state x="934" y="117" key="#com.intellij.ide.util.MemberChooser" timestamp="1596613538475">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="934" y="117" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1596613538475" />
+    <state x="514" y="318" key="#com.intellij.javaee.module.view.common.J2EE.J2EEDeploymentDescriptorLocationPanel.changeDDPath" timestamp="1596627477751">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="514" y="318" key="#com.intellij.javaee.module.view.common.J2EE.J2EEDeploymentDescriptorLocationPanel.changeDDPath/0.0.1536.824@0.0.1536.824" timestamp="1596627477751" />
+    <state x="599" y="318" key="#com.intellij.javaee.module.view.web.EditWebRootDialog" timestamp="1596627492547">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="599" y="318" key="#com.intellij.javaee.module.view.web.EditWebRootDialog/0.0.1536.824@0.0.1536.824" timestamp="1596627492547" />
+    <state x="714" y="0" width="822" height="824" key="#京淘后台管理系统" timestamp="1596608491966">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="714" y="0" width="822" height="824" key="#京淘后台管理系统/0.0.1536.824@0.0.1536.824" timestamp="1596608491966" />
+    <state x="249" y="0" key="#项目结构" timestamp="1596627504978">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="249" y="0" key="#项目结构/0.0.1536.824@0.0.1536.824" timestamp="1596627504978" />
+    <state x="819" y="173" key="FileChooserDialogImpl" timestamp="1596627684503">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="819" y="173" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1596627684503" />
+    <state width="1493" height="214" key="GridCell.Tab.0.bottom" timestamp="1597135642815">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="214" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1597135642815" />
+    <state width="1493" height="214" key="GridCell.Tab.0.center" timestamp="1597135642815">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="214" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1597135642815" />
+    <state width="1493" height="214" key="GridCell.Tab.0.left" timestamp="1597135642815">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="214" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1597135642815" />
+    <state width="1493" height="214" key="GridCell.Tab.0.right" timestamp="1597135642815">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="214" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1597135642815" />
+    <state width="759" height="214" key="GridCell.Tab.1.bottom" timestamp="1597133045798">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="759" height="214" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1597133045798" />
+    <state width="759" height="214" key="GridCell.Tab.1.center" timestamp="1597133045798">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="759" height="214" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1597133045798" />
+    <state width="759" height="214" key="GridCell.Tab.1.left" timestamp="1597133045798">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="759" height="214" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1597133045798" />
+    <state width="759" height="214" key="GridCell.Tab.1.right" timestamp="1597133045798">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="759" height="214" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1597133045798" />
+    <state width="782" height="286" key="GridCell.Tab.2.bottom" timestamp="1596615820475">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="782" height="286" key="GridCell.Tab.2.bottom/0.0.1536.824@0.0.1536.824" timestamp="1596615820475" />
+    <state width="782" height="286" key="GridCell.Tab.2.center" timestamp="1596615820475">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="782" height="286" key="GridCell.Tab.2.center/0.0.1536.824@0.0.1536.824" timestamp="1596615820475" />
+    <state width="782" height="286" key="GridCell.Tab.2.left" timestamp="1596615820475">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="782" height="286" key="GridCell.Tab.2.left/0.0.1536.824@0.0.1536.824" timestamp="1596615820475" />
+    <state width="782" height="286" key="GridCell.Tab.2.right" timestamp="1596615820475">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="782" height="286" key="GridCell.Tab.2.right/0.0.1536.824@0.0.1536.824" timestamp="1596615820475" />
+    <state width="207" height="477" key="HiddenNamespacesPopup" timestamp="1596501799092">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="207" height="477" key="HiddenNamespacesPopup/0.0.1536.824@0.0.1536.824" timestamp="1596501799092" />
+    <state x="246" y="64" key="MergeDialog" timestamp="1597147898302">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="246" y="64" key="MergeDialog/0.0.1536.824@0.0.1536.824" timestamp="1597147898302" />
+    <state x="653" y="278" width="428" height="267" key="MultipleFileMergeDialog" timestamp="1597147898309">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="653" y="278" width="428" height="267" key="MultipleFileMergeDialog/0.0.1536.824@0.0.1536.824" timestamp="1597147898309" />
+    <state x="591" y="246" key="Registry" timestamp="1596591752493">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="591" y="246" key="Registry/0.0.1536.824@0.0.1536.824" timestamp="1596591752493" />
+    <state x="314" y="53" key="SettingsEditor" timestamp="1597146633677">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="314" y="53" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1597146633677" />
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1597147828262">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1597147828262" />
+    <state x="519" y="146" key="com.intellij.openapi.vcs.changes.SpecificFilesViewDialog" timestamp="1597146802145">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="519" y="146" key="com.intellij.openapi.vcs.changes.SpecificFilesViewDialog/0.0.1536.824@0.0.1536.824" timestamp="1597146802145" />
+    <state x="564" y="325" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1597146097856">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="564" y="325" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.824@0.0.1536.824" timestamp="1597146097856" />
+    <state x="708" y="141" width="828" height="641" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1596615415142">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="708" y="141" width="828" height="641" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1536.824@0.0.1536.824" timestamp="1596615415142" />
+    <state x="643" y="62" key="new project wizard" timestamp="1596705765183">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="643" y="62" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1596705765183" />
+    <state x="790" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1596613051915">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="790" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1596613051915" />
+  </component>
+</project>
